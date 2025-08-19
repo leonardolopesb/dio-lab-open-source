@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu perfil! :D
 
-Eu sou recifense, alvirrubro e programador! Vamos juntos?
+Eu sou recifense, alvirrubro e programador! Vamos juntos??
 
 ---
 
